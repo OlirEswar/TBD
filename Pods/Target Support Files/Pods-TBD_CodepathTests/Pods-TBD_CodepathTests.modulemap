@@ -1,0 +1,6 @@
+framework module Pods_TBD_CodepathTests {
+  umbrella header "Pods-TBD_CodepathTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
